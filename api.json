@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://api.ru-state.online/test/game.zip",
+    "URL_GAME_FILES" : "http://a0749504.xsph.ru/game.zip",
     "URL_GAME_FILES_UPD" : "https://dl.ru-state.online/gamefiles/files_upd.zip",
-    "URL_VK": "https://vk.com/cr_rustate",
-    "URL_DISCORD": "https://discord.gg/gtbqw8gbsC",
-    "URL_YOUTUBE": "https://t.me/bladegames_official",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
+    "URL_VK": "vk.com/vertigo_mobile",
+    "URL_DISCORD": "https://vertigo-mobile.ru/",
+    "URL_YOUTUBE": "https://forum.vertigo-mobile.ru/",
+    "URL_FORUM": "https://forum.vertigo-mobile.ru/",
+    "URL_DONATE": "https://vertigo-mobile.ru/donate",
     "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
 }
